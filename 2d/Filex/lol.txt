@@ -1,0 +1,1 @@
+[FBAN/FB4A;FBAV/60.0.0.16.76;FBBV/20454129;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/vodafone IE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I9505;FBSV/5.0.1;nullFBCA/armeabi-v7a:armeabi;]
